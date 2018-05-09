@@ -1,5 +1,5 @@
 # Linearity1-PCA
-This project repo contains detailed examples of PCA, PCoA, and SVD. They range from simpler data matrices to metagenomics to text analysis. We used numpy, pandas, and sklearn to analyze the data. The python library, plotly, was used to create the 3d and 2d scatter plots. 
+This project repo contains detailed examples of PCA, PCoA, and SVD. They range from simpler data matrices to metagenomics to text analysis. We used numpy, pandas, and sklearn to analyze the data. The python library, plotly, was used to create the 3d and 2d scatter plots. For a more in-depth video analysis, check out our video explanation at https://youtu.be/jPo0EyiS3Fs.
 
 To run these examples, just clone this repo, install the necessary libraries, and input your plotly credentials.
 
